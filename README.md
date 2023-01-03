@@ -1,7 +1,6 @@
 # 💫 About Me:
 Bacharelado em sistemas da informação com pós graduação em Analise de dados. 
-Conhecimentos em programação em Python,R e SQL. Também já atuei com ferramentas como PowerBI e Excel.<br>Experiência de trabalho em análise de dados, dataviz, estatística descritiva,analise preditiviva e quantitativa.<br>Nesses 10 anos trabalhando com TI, lidei com produtos bancários e projetos de mudança.
-
+Conhecimentos em programação em Python,R e SQL. Também já atuei com ferramentas como PowerBI e Excel.<br>Experiência de trabalho em análise de dados, dataviz, estatística descritiva,analise preditiviva e quantitativa.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alan-almeida-da-silva-andrade-84092763/) 
